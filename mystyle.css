@@ -1,0 +1,68 @@
+
+			body {font-family: 'Courier New', Courier, monospace;
+                color: black;}
+			body {
+			border: 15px;
+			Padding: 50px;}
+				#demo {
+					background-color:lightcyan;
+					Width: 750px;
+					border: 15px silver;
+					padding: 50px;
+					margin: 20px;
+					float: left;
+								}
+				#container img 
+				{
+				width: 1000px;
+				height: 300px;
+				object-fit: cover;
+									}
+			.card {
+      		align-self: center;
+			margin: 0 auto; 
+      		float: none; 
+      		margin-bottom: 20px; 
+									}
+			.footer {text-align:center;}
+			.text-block {
+				position: absolute;
+				bottom: 20px;
+				right: 20px;
+				background-color: black;
+				color: white;
+				padding-left: 20px;
+				padding-right: 20px;
+				}
+			h1 {text-align: center;}
+			h2 {text-align:left;}
+			h3 {text-align: center;}
+			p {text-align: center;}
+			#p2 {text-align: left;}
+
+            .image-container {
+                width: 300px;
+                height: 300px;
+                float:right;
+                margin-top: -200px
+              }
+              
+              .image-container img {
+                max-width: 100%;
+                max-height: 100%;
+                display: block;
+                margin: auto;
+              }
+            .image-container2 {
+                width: 300px;
+                height: 300px;
+                float:right;
+                margin-top: -200px
+              }
+              
+            .image-container2 img {
+                max-width: 100%;
+                max-height: 100%;
+                display: block;
+                margin: auto;
+              }
